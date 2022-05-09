@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "heluuu cậu <3",
     introTitle: 'ummm... tớ có điều này muốn nóiiii',
-    introDesc: `cậu phải trả ời thật lòng nhée :3`,
+    introDesc: `cậu phải trả lời thật lòng nhée :3`,
     btnIntro: 'ociii cậu ',
     title: 'Tớ thích cậu nhiều lắm :((. cậu có yêu tớ hong?:)',
     desc: 'moaz moaz ',
